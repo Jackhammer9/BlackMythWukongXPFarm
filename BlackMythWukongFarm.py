@@ -50,4 +50,4 @@ for i in range (iterations):
     #Reset
     controller.press('q')
     print (f" Completed Iteration {i+1} \n")
-    time.sleep(17)d
+    time.sleep(17)
