@@ -15,7 +15,7 @@ for i in range (iterations):
     controller.press('e')
     time.sleep(3.3)
     controller.press('esc')
-    time.sleep(2.0)
+    time.sleep(2.6)
 
     # Start Walking To Target Position
     controller.keyDown('d')
